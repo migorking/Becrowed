@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\bin\Debug\net6.0\produtoSimples_1004.exe
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\bin\Debug\net6.0\produtoSimples_1004.deps.json
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\bin\Debug\net6.0\produtoSimples_1004.runtimeconfig.json
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\bin\Debug\net6.0\produtoSimples_1004.dll
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\bin\Debug\net6.0\produtoSimples_1004.pdb
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.AssemblyInfo.cs
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.dll
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\refint\produtoSimples_1004.dll
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.pdb
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\produtoSimples_1004.genruntimeconfig.cache
+C:\VSC\Becrowed\produtoSimples_1004\produtoSimples_1004\obj\Debug\net6.0\ref\produtoSimples_1004.dll

@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.exe
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.deps.json
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.runtimeconfig.json
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.dll
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\bin\Debug\net6.0\SomaSimples_1003.pdb
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.AssemblyInfo.cs
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.dll
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\refint\SomaSimples_1003.dll
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.pdb
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\SomaSimples_1003.genruntimeconfig.cache
+C:\VSC\Becrowed\SomaSimples_1003\SomaSimples_1003\obj\Debug\net6.0\ref\SomaSimples_1003.dll

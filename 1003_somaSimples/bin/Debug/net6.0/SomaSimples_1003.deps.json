@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SomaSimples_1003/1.0.0": {
+        "runtime": {
+          "SomaSimples_1003.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomaSimples_1003/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
