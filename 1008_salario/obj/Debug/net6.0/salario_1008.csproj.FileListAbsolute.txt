@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\salario_1008\salario_1008\bin\Debug\net6.0\salario_1008.exe
+C:\VSC\Becrowed\salario_1008\salario_1008\bin\Debug\net6.0\salario_1008.deps.json
+C:\VSC\Becrowed\salario_1008\salario_1008\bin\Debug\net6.0\salario_1008.runtimeconfig.json
+C:\VSC\Becrowed\salario_1008\salario_1008\bin\Debug\net6.0\salario_1008.dll
+C:\VSC\Becrowed\salario_1008\salario_1008\bin\Debug\net6.0\salario_1008.pdb
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.AssemblyInfo.cs
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.dll
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\refint\salario_1008.dll
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.pdb
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\salario_1008.genruntimeconfig.cache
+C:\VSC\Becrowed\salario_1008\salario_1008\obj\Debug\net6.0\ref\salario_1008.dll

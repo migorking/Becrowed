@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\diferença_1007\diferença_1007\bin\Debug\net6.0\diferença_1007.exe
+C:\VSC\Becrowed\diferença_1007\diferença_1007\bin\Debug\net6.0\diferença_1007.deps.json
+C:\VSC\Becrowed\diferença_1007\diferença_1007\bin\Debug\net6.0\diferença_1007.runtimeconfig.json
+C:\VSC\Becrowed\diferença_1007\diferença_1007\bin\Debug\net6.0\diferença_1007.dll
+C:\VSC\Becrowed\diferença_1007\diferença_1007\bin\Debug\net6.0\diferença_1007.pdb
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.AssemblyInfo.cs
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.dll
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\refint\diferença_1007.dll
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.pdb
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\diferença_1007.genruntimeconfig.cache
+C:\VSC\Becrowed\diferença_1007\diferença_1007\obj\Debug\net6.0\ref\diferença_1007.dll

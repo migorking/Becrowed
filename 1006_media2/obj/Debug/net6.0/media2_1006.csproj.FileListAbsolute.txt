@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\media2_1006\media2_1006\bin\Debug\net6.0\media2_1006.exe
+C:\VSC\Becrowed\media2_1006\media2_1006\bin\Debug\net6.0\media2_1006.deps.json
+C:\VSC\Becrowed\media2_1006\media2_1006\bin\Debug\net6.0\media2_1006.runtimeconfig.json
+C:\VSC\Becrowed\media2_1006\media2_1006\bin\Debug\net6.0\media2_1006.dll
+C:\VSC\Becrowed\media2_1006\media2_1006\bin\Debug\net6.0\media2_1006.pdb
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.AssemblyInfo.cs
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.dll
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\refint\media2_1006.dll
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.pdb
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\media2_1006.genruntimeconfig.cache
+C:\VSC\Becrowed\media2_1006\media2_1006\obj\Debug\net6.0\ref\media2_1006.dll
