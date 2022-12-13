@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\bin\Debug\net6.0\1013_MaiorAB.exe
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\bin\Debug\net6.0\1013_MaiorAB.deps.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\bin\Debug\net6.0\1013_MaiorAB.runtimeconfig.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\bin\Debug\net6.0\1013_MaiorAB.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\bin\Debug\net6.0\1013_MaiorAB.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.AssemblyInfo.cs
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\refint\1013_MaiorAB.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\1013_MaiorAB.genruntimeconfig.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1013_MaiorAB\obj\Debug\net6.0\ref\1013_MaiorAB.dll

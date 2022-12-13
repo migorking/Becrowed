@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\bin\Debug\net6.0\1014_ConsumoCombustivel.exe
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\bin\Debug\net6.0\1014_ConsumoCombustivel.deps.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\bin\Debug\net6.0\1014_ConsumoCombustivel.runtimeconfig.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\bin\Debug\net6.0\1014_ConsumoCombustivel.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\bin\Debug\net6.0\1014_ConsumoCombustivel.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.AssemblyInfo.cs
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\refint\1014_ConsumoCombustivel.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\1014_ConsumoCombustivel.genruntimeconfig.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1014_ConsumoCombustivel\obj\Debug\net6.0\ref\1014_ConsumoCombustivel.dll

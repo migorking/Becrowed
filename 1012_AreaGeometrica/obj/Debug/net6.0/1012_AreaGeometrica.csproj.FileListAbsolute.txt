@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\bin\Debug\net6.0\1012_AreaGeometrica.exe
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\bin\Debug\net6.0\1012_AreaGeometrica.deps.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\bin\Debug\net6.0\1012_AreaGeometrica.runtimeconfig.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\bin\Debug\net6.0\1012_AreaGeometrica.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\bin\Debug\net6.0\1012_AreaGeometrica.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.AssemblyInfo.cs
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\refint\1012_AreaGeometrica.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\1012_AreaGeometrica.genruntimeconfig.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1012_AreaGeometrica\obj\Debug\net6.0\ref\1012_AreaGeometrica.dll
