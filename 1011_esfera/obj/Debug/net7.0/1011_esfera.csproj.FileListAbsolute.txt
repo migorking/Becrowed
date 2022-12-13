@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\bin\Debug\net7.0\1011_esfera.exe
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\bin\Debug\net7.0\1011_esfera.deps.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\bin\Debug\net7.0\1011_esfera.runtimeconfig.json
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\bin\Debug\net7.0\1011_esfera.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\bin\Debug\net7.0\1011_esfera.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.AssemblyInfo.cs
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\refint\1011_esfera.dll
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.pdb
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\1011_esfera.genruntimeconfig.cache
+E:\SHARPCODERS\Exercicios\BeCrowed\1011_esfera\obj\Debug\net7.0\ref\1011_esfera.dll
