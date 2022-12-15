@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\bin\Debug\net6.0\1016_DistanciaCarros.exe
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\bin\Debug\net6.0\1016_DistanciaCarros.deps.json
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\bin\Debug\net6.0\1016_DistanciaCarros.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\bin\Debug\net6.0\1016_DistanciaCarros.dll
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\bin\Debug\net6.0\1016_DistanciaCarros.pdb
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.dll
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\refint\1016_DistanciaCarros.dll
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.pdb
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\1016_DistanciaCarros.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1016_DistanciaCarros\obj\Debug\net6.0\ref\1016_DistanciaCarros.dll

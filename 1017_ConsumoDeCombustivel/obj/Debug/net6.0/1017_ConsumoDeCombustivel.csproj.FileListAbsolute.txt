@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\bin\Debug\net6.0\1017_ConsumoDeCombustivel.exe
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\bin\Debug\net6.0\1017_ConsumoDeCombustivel.deps.json
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\bin\Debug\net6.0\1017_ConsumoDeCombustivel.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\bin\Debug\net6.0\1017_ConsumoDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\bin\Debug\net6.0\1017_ConsumoDeCombustivel.pdb
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\refint\1017_ConsumoDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.pdb
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\1017_ConsumoDeCombustivel.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1017_ConsumoDeCombustivel\obj\Debug\net6.0\ref\1017_ConsumoDeCombustivel.dll
