@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1036_Baskhara\bin\Debug\net6.0\1036_Baskhara.exe
+E:\SHARPCODERS\Becrowed\1036_Baskhara\bin\Debug\net6.0\1036_Baskhara.deps.json
+E:\SHARPCODERS\Becrowed\1036_Baskhara\bin\Debug\net6.0\1036_Baskhara.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1036_Baskhara\bin\Debug\net6.0\1036_Baskhara.dll
+E:\SHARPCODERS\Becrowed\1036_Baskhara\bin\Debug\net6.0\1036_Baskhara.pdb
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.dll
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\refint\1036_Baskhara.dll
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.pdb
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\1036_Baskhara.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1036_Baskhara\obj\Debug\net6.0\ref\1036_Baskhara.dll

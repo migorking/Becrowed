@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1035_TesteDeSeleção1\bin\Debug\net6.0\1035_TesteDeSeleção1.exe
+C:\VSC\Becrowed\1035_TesteDeSeleção1\bin\Debug\net6.0\1035_TesteDeSeleção1.deps.json
+C:\VSC\Becrowed\1035_TesteDeSeleção1\bin\Debug\net6.0\1035_TesteDeSeleção1.runtimeconfig.json
+C:\VSC\Becrowed\1035_TesteDeSeleção1\bin\Debug\net6.0\1035_TesteDeSeleção1.dll
+C:\VSC\Becrowed\1035_TesteDeSeleção1\bin\Debug\net6.0\1035_TesteDeSeleção1.pdb
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.AssemblyInfo.cs
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.dll
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\refint\1035_TesteDeSeleção1.dll
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.pdb
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\1035_TesteDeSeleção1.genruntimeconfig.cache
+C:\VSC\Becrowed\1035_TesteDeSeleção1\obj\Debug\net6.0\ref\1035_TesteDeSeleção1.dll
