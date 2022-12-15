@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1040_Media3\bin\Debug\net6.0\1040_Media3.exe
+C:\VSC\Becrowed\1040_Media3\bin\Debug\net6.0\1040_Media3.deps.json
+C:\VSC\Becrowed\1040_Media3\bin\Debug\net6.0\1040_Media3.runtimeconfig.json
+C:\VSC\Becrowed\1040_Media3\bin\Debug\net6.0\1040_Media3.dll
+C:\VSC\Becrowed\1040_Media3\bin\Debug\net6.0\1040_Media3.pdb
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.AssemblyInfo.cs
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.dll
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\refint\1040_Media3.dll
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.pdb
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\1040_Media3.genruntimeconfig.cache
+C:\VSC\Becrowed\1040_Media3\obj\Debug\net6.0\ref\1040_Media3.dll

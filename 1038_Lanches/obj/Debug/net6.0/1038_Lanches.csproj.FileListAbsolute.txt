@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1038_Lanches\bin\Debug\net6.0\1038_Lanches.exe
+C:\VSC\Becrowed\1038_Lanches\bin\Debug\net6.0\1038_Lanches.deps.json
+C:\VSC\Becrowed\1038_Lanches\bin\Debug\net6.0\1038_Lanches.runtimeconfig.json
+C:\VSC\Becrowed\1038_Lanches\bin\Debug\net6.0\1038_Lanches.dll
+C:\VSC\Becrowed\1038_Lanches\bin\Debug\net6.0\1038_Lanches.pdb
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.AssemblyInfo.cs
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.dll
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\refint\1038_Lanches.dll
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.pdb
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\1038_Lanches.genruntimeconfig.cache
+C:\VSC\Becrowed\1038_Lanches\obj\Debug\net6.0\ref\1038_Lanches.dll

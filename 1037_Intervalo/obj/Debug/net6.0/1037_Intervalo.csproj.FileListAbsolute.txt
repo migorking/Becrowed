@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1037_Intervalo\bin\Debug\net6.0\1037_Intervalo.exe
+E:\SHARPCODERS\Becrowed\1037_Intervalo\bin\Debug\net6.0\1037_Intervalo.deps.json
+E:\SHARPCODERS\Becrowed\1037_Intervalo\bin\Debug\net6.0\1037_Intervalo.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1037_Intervalo\bin\Debug\net6.0\1037_Intervalo.dll
+E:\SHARPCODERS\Becrowed\1037_Intervalo\bin\Debug\net6.0\1037_Intervalo.pdb
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.dll
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\refint\1037_Intervalo.dll
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.pdb
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\1037_Intervalo.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1037_Intervalo\obj\Debug\net6.0\ref\1037_Intervalo.dll

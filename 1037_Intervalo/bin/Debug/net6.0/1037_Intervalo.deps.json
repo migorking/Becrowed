@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1037_Intervalo/1.0.0": {
+        "runtime": {
+          "1037_Intervalo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1037_Intervalo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
