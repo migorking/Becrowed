@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\bin\Debug\net6.0\1019_ConversãoDeTempo.exe
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\bin\Debug\net6.0\1019_ConversãoDeTempo.deps.json
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\bin\Debug\net6.0\1019_ConversãoDeTempo.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\bin\Debug\net6.0\1019_ConversãoDeTempo.dll
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\bin\Debug\net6.0\1019_ConversãoDeTempo.pdb
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.dll
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\refint\1019_ConversãoDeTempo.dll
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.pdb
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\1019_ConversãoDeTempo.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1019_ConversãoDeTempo\obj\Debug\net6.0\ref\1019_ConversãoDeTempo.dll

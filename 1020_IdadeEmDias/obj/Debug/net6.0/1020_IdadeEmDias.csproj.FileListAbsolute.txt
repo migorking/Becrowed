@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.exe
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.deps.json
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.dll
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.pdb
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.dll
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\refint\1020_IdadeEmDias.dll
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.pdb
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1020_IdadeEmDias\obj\Debug\net6.0\ref\1020_IdadeEmDias.dll

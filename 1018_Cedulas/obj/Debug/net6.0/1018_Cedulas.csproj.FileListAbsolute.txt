@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.exe
+E:\SHARPCODERS\Becrowed\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.deps.json
+E:\SHARPCODERS\Becrowed\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.dll
+E:\SHARPCODERS\Becrowed\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.pdb
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.dll
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\refint\1018_Cedulas.dll
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.pdb
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1018_Cedulas\obj\Debug\net6.0\ref\1018_Cedulas.dll
