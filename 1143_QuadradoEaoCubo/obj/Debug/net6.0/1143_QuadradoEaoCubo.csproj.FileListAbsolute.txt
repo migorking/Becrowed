@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\bin\Debug\net6.0\1143_QuadradoEaoCubo.exe
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\bin\Debug\net6.0\1143_QuadradoEaoCubo.deps.json
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\bin\Debug\net6.0\1143_QuadradoEaoCubo.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\bin\Debug\net6.0\1143_QuadradoEaoCubo.dll
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\bin\Debug\net6.0\1143_QuadradoEaoCubo.pdb
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.dll
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\refint\1143_QuadradoEaoCubo.dll
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.pdb
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\1143_QuadradoEaoCubo.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1143_QuadradoEaoCubo\obj\Debug\net6.0\ref\1143_QuadradoEaoCubo.dll
