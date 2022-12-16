@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1115_Quadrante\bin\Debug\net6.0\1115_Quadrante.exe
+E:\SHARPCODERS\Becrowed\1115_Quadrante\bin\Debug\net6.0\1115_Quadrante.deps.json
+E:\SHARPCODERS\Becrowed\1115_Quadrante\bin\Debug\net6.0\1115_Quadrante.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1115_Quadrante\bin\Debug\net6.0\1115_Quadrante.dll
+E:\SHARPCODERS\Becrowed\1115_Quadrante\bin\Debug\net6.0\1115_Quadrante.pdb
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.dll
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\refint\1115_Quadrante.dll
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.pdb
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\1115_Quadrante.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1115_Quadrante\obj\Debug\net6.0\ref\1115_Quadrante.dll
