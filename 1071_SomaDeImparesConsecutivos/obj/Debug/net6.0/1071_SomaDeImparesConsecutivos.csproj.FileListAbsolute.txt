@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\bin\Debug\net6.0\1071_SomaDeImparesConsecutivos.exe
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\bin\Debug\net6.0\1071_SomaDeImparesConsecutivos.deps.json
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\bin\Debug\net6.0\1071_SomaDeImparesConsecutivos.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\bin\Debug\net6.0\1071_SomaDeImparesConsecutivos.dll
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\bin\Debug\net6.0\1071_SomaDeImparesConsecutivos.pdb
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.dll
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\refint\1071_SomaDeImparesConsecutivos.dll
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.pdb
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\1071_SomaDeImparesConsecutivos.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1071_SomaDeImparesConsecutivos\obj\Debug\net6.0\ref\1071_SomaDeImparesConsecutivos.dll

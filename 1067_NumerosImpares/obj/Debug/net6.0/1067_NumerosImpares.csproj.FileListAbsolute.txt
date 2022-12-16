@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\bin\Debug\net6.0\1067_NumerosImpares.exe
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\bin\Debug\net6.0\1067_NumerosImpares.deps.json
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\bin\Debug\net6.0\1067_NumerosImpares.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\bin\Debug\net6.0\1067_NumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\bin\Debug\net6.0\1067_NumerosImpares.pdb
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\refint\1067_NumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.pdb
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\1067_NumerosImpares.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1067_NumerosImpares\obj\Debug\net6.0\ref\1067_NumerosImpares.dll

@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\bin\Debug\net6.0\1070_SeisNumerosImpares.exe
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\bin\Debug\net6.0\1070_SeisNumerosImpares.deps.json
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\bin\Debug\net6.0\1070_SeisNumerosImpares.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\bin\Debug\net6.0\1070_SeisNumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\bin\Debug\net6.0\1070_SeisNumerosImpares.pdb
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\refint\1070_SeisNumerosImpares.dll
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.pdb
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\1070_SeisNumerosImpares.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1070_SeisNumerosImpares\obj\Debug\net6.0\ref\1070_SeisNumerosImpares.dll
