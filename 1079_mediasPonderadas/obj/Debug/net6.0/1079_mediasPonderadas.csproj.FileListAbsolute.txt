@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1079_mediasPonderadas\bin\Debug\net6.0\1079_mediasPonderadas.exe
+C:\VSC\Becrowed\1079_mediasPonderadas\bin\Debug\net6.0\1079_mediasPonderadas.deps.json
+C:\VSC\Becrowed\1079_mediasPonderadas\bin\Debug\net6.0\1079_mediasPonderadas.runtimeconfig.json
+C:\VSC\Becrowed\1079_mediasPonderadas\bin\Debug\net6.0\1079_mediasPonderadas.dll
+C:\VSC\Becrowed\1079_mediasPonderadas\bin\Debug\net6.0\1079_mediasPonderadas.pdb
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.AssemblyInfo.cs
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.dll
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\refint\1079_mediasPonderadas.dll
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.pdb
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\1079_mediasPonderadas.genruntimeconfig.cache
+C:\VSC\Becrowed\1079_mediasPonderadas\obj\Debug\net6.0\ref\1079_mediasPonderadas.dll

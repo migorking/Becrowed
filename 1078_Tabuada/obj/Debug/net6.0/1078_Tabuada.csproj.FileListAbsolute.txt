@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1078_Tabuada\bin\Debug\net6.0\1078_Tabuada.exe
+E:\SHARPCODERS\Becrowed\1078_Tabuada\bin\Debug\net6.0\1078_Tabuada.deps.json
+E:\SHARPCODERS\Becrowed\1078_Tabuada\bin\Debug\net6.0\1078_Tabuada.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1078_Tabuada\bin\Debug\net6.0\1078_Tabuada.dll
+E:\SHARPCODERS\Becrowed\1078_Tabuada\bin\Debug\net6.0\1078_Tabuada.pdb
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.dll
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\refint\1078_Tabuada.dll
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.pdb
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\1078_Tabuada.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1078_Tabuada\obj\Debug\net6.0\ref\1078_Tabuada.dll
