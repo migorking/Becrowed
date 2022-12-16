@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\bin\Debug\net6.0\1132_SomaMultiplosDe13.exe
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\bin\Debug\net6.0\1132_SomaMultiplosDe13.deps.json
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\bin\Debug\net6.0\1132_SomaMultiplosDe13.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\bin\Debug\net6.0\1132_SomaMultiplosDe13.dll
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\bin\Debug\net6.0\1132_SomaMultiplosDe13.pdb
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.dll
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\refint\1132_SomaMultiplosDe13.dll
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.pdb
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\1132_SomaMultiplosDe13.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1132_SomaMultiplosDe13\obj\Debug\net6.0\ref\1132_SomaMultiplosDe13.dll

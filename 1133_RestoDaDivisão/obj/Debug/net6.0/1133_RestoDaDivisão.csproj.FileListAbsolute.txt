@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\bin\Debug\net6.0\1133_RestoDaDivisão.exe
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\bin\Debug\net6.0\1133_RestoDaDivisão.deps.json
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\bin\Debug\net6.0\1133_RestoDaDivisão.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\bin\Debug\net6.0\1133_RestoDaDivisão.dll
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\bin\Debug\net6.0\1133_RestoDaDivisão.pdb
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.dll
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\refint\1133_RestoDaDivisão.dll
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.pdb
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\1133_RestoDaDivisão.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1133_RestoDaDivisão\obj\Debug\net6.0\ref\1133_RestoDaDivisão.dll

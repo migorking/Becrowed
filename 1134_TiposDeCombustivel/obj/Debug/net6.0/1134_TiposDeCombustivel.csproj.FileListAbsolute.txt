@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\bin\Debug\net6.0\1134_TiposDeCombustivel.exe
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\bin\Debug\net6.0\1134_TiposDeCombustivel.deps.json
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\bin\Debug\net6.0\1134_TiposDeCombustivel.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\bin\Debug\net6.0\1134_TiposDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\bin\Debug\net6.0\1134_TiposDeCombustivel.pdb
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\refint\1134_TiposDeCombustivel.dll
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.pdb
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\1134_TiposDeCombustivel.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1134_TiposDeCombustivel\obj\Debug\net6.0\ref\1134_TiposDeCombustivel.dll
