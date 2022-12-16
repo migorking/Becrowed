@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\bin\Debug\net6.0\1065_CincoNumeros.exe
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\bin\Debug\net6.0\1065_CincoNumeros.deps.json
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\bin\Debug\net6.0\1065_CincoNumeros.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\bin\Debug\net6.0\1065_CincoNumeros.dll
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\bin\Debug\net6.0\1065_CincoNumeros.pdb
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.dll
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\refint\1065_CincoNumeros.dll
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.pdb
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\1065_CincoNumeros.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1065_CincoNumeros\obj\Debug\net6.0\ref\1065_CincoNumeros.dll

@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\bin\Debug\net6.0\1064_PositivosMedia.exe
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\bin\Debug\net6.0\1064_PositivosMedia.deps.json
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\bin\Debug\net6.0\1064_PositivosMedia.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\bin\Debug\net6.0\1064_PositivosMedia.dll
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\bin\Debug\net6.0\1064_PositivosMedia.pdb
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.dll
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\refint\1064_PositivosMedia.dll
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.pdb
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\1064_PositivosMedia.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1064_PositivosMedia\obj\Debug\net6.0\ref\1064_PositivosMedia.dll

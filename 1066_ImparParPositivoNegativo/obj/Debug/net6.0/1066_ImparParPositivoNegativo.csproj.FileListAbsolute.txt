@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\bin\Debug\net6.0\1066_ImparParPositivoNegativo.exe
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\bin\Debug\net6.0\1066_ImparParPositivoNegativo.deps.json
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\bin\Debug\net6.0\1066_ImparParPositivoNegativo.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\bin\Debug\net6.0\1066_ImparParPositivoNegativo.dll
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\bin\Debug\net6.0\1066_ImparParPositivoNegativo.pdb
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.dll
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\refint\1066_ImparParPositivoNegativo.dll
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.pdb
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\1066_ImparParPositivoNegativo.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1066_ImparParPositivoNegativo\obj\Debug\net6.0\ref\1066_ImparParPositivoNegativo.dll
