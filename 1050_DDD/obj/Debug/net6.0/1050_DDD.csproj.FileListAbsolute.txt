@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1050_DDD\bin\Debug\net6.0\1050_DDD.exe
+E:\SHARPCODERS\Becrowed\1050_DDD\bin\Debug\net6.0\1050_DDD.deps.json
+E:\SHARPCODERS\Becrowed\1050_DDD\bin\Debug\net6.0\1050_DDD.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1050_DDD\bin\Debug\net6.0\1050_DDD.dll
+E:\SHARPCODERS\Becrowed\1050_DDD\bin\Debug\net6.0\1050_DDD.pdb
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.dll
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\refint\1050_DDD.dll
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.pdb
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\1050_DDD.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1050_DDD\obj\Debug\net6.0\ref\1050_DDD.dll

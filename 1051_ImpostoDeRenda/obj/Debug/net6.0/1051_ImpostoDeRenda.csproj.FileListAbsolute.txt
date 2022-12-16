@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\bin\Debug\net6.0\1051_ImpostoDeRenda.exe
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\bin\Debug\net6.0\1051_ImpostoDeRenda.deps.json
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\bin\Debug\net6.0\1051_ImpostoDeRenda.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\bin\Debug\net6.0\1051_ImpostoDeRenda.dll
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\bin\Debug\net6.0\1051_ImpostoDeRenda.pdb
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.dll
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\refint\1051_ImpostoDeRenda.dll
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.pdb
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\1051_ImpostoDeRenda.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1051_ImpostoDeRenda\obj\Debug\net6.0\ref\1051_ImpostoDeRenda.dll
