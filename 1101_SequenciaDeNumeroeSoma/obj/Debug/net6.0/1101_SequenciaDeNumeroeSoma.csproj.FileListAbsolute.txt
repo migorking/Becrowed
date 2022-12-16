@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\bin\Debug\net6.0\1101_SequenciaDeNumeroeSoma.exe
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\bin\Debug\net6.0\1101_SequenciaDeNumeroeSoma.deps.json
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\bin\Debug\net6.0\1101_SequenciaDeNumeroeSoma.runtimeconfig.json
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\bin\Debug\net6.0\1101_SequenciaDeNumeroeSoma.dll
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\bin\Debug\net6.0\1101_SequenciaDeNumeroeSoma.pdb
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.AssemblyInfo.cs
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.dll
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\refint\1101_SequenciaDeNumeroeSoma.dll
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.pdb
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\1101_SequenciaDeNumeroeSoma.genruntimeconfig.cache
+C:\VSC\Becrowed\1101_SequenciaDeNumeroeSoma\obj\Debug\net6.0\ref\1101_SequenciaDeNumeroeSoma.dll

@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\bin\Debug\net6.0\1113_CrescenteEDecresecente.exe
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\bin\Debug\net6.0\1113_CrescenteEDecresecente.deps.json
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\bin\Debug\net6.0\1113_CrescenteEDecresecente.runtimeconfig.json
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\bin\Debug\net6.0\1113_CrescenteEDecresecente.dll
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\bin\Debug\net6.0\1113_CrescenteEDecresecente.pdb
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.AssemblyInfo.cs
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.dll
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\refint\1113_CrescenteEDecresecente.dll
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.pdb
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\1113_CrescenteEDecresecente.genruntimeconfig.cache
+C:\VSC\Becrowed\1113_CrescenteEDecresecente\obj\Debug\net6.0\ref\1113_CrescenteEDecresecente.dll
