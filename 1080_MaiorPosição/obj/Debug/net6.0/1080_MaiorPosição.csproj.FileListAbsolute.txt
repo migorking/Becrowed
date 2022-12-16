@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1080_MaiorPosição\bin\Debug\net6.0\1080_MaiorPosição.exe
+C:\VSC\Becrowed\1080_MaiorPosição\bin\Debug\net6.0\1080_MaiorPosição.deps.json
+C:\VSC\Becrowed\1080_MaiorPosição\bin\Debug\net6.0\1080_MaiorPosição.runtimeconfig.json
+C:\VSC\Becrowed\1080_MaiorPosição\bin\Debug\net6.0\1080_MaiorPosição.dll
+C:\VSC\Becrowed\1080_MaiorPosição\bin\Debug\net6.0\1080_MaiorPosição.pdb
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.AssemblyInfo.cs
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.dll
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\refint\1080_MaiorPosição.dll
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.pdb
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\1080_MaiorPosição.genruntimeconfig.cache
+C:\VSC\Becrowed\1080_MaiorPosição\obj\Debug\net6.0\ref\1080_MaiorPosição.dll

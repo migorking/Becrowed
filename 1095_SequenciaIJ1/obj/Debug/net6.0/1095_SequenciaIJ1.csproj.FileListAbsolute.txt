@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\bin\Debug\net6.0\1095_SequenciaIJ1.exe
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\bin\Debug\net6.0\1095_SequenciaIJ1.deps.json
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\bin\Debug\net6.0\1095_SequenciaIJ1.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\bin\Debug\net6.0\1095_SequenciaIJ1.dll
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\bin\Debug\net6.0\1095_SequenciaIJ1.pdb
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.dll
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\refint\1095_SequenciaIJ1.dll
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.pdb
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\1095_SequenciaIJ1.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1095_SequenciaIJ1\obj\Debug\net6.0\ref\1095_SequenciaIJ1.dll
