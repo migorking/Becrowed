@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\bin\Debug\net6.0\1045_TiposDeTriangulo.exe
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\bin\Debug\net6.0\1045_TiposDeTriangulo.deps.json
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\bin\Debug\net6.0\1045_TiposDeTriangulo.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\bin\Debug\net6.0\1045_TiposDeTriangulo.dll
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\bin\Debug\net6.0\1045_TiposDeTriangulo.pdb
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.dll
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\refint\1045_TiposDeTriangulo.dll
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.pdb
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\1045_TiposDeTriangulo.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1045_TiposDeTriangulo\obj\Debug\net6.0\ref\1045_TiposDeTriangulo.dll

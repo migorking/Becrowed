@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1044_multiplos\bin\Debug\net6.0\1044_multiplos.exe
+E:\SHARPCODERS\Becrowed\1044_multiplos\bin\Debug\net6.0\1044_multiplos.deps.json
+E:\SHARPCODERS\Becrowed\1044_multiplos\bin\Debug\net6.0\1044_multiplos.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1044_multiplos\bin\Debug\net6.0\1044_multiplos.dll
+E:\SHARPCODERS\Becrowed\1044_multiplos\bin\Debug\net6.0\1044_multiplos.pdb
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.dll
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\refint\1044_multiplos.dll
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.pdb
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\1044_multiplos.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1044_multiplos\obj\Debug\net6.0\ref\1044_multiplos.dll

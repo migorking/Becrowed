@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1043_TrianguloAreaPerimetro/1.0.0": {
+        "runtime": {
+          "1043_TrianguloAreaPerimetro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1043_TrianguloAreaPerimetro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

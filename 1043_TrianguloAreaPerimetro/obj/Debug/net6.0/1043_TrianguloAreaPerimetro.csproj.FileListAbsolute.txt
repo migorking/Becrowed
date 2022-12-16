@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\bin\Debug\net6.0\1043_TrianguloAreaPerimetro.exe
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\bin\Debug\net6.0\1043_TrianguloAreaPerimetro.deps.json
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\bin\Debug\net6.0\1043_TrianguloAreaPerimetro.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\bin\Debug\net6.0\1043_TrianguloAreaPerimetro.dll
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\bin\Debug\net6.0\1043_TrianguloAreaPerimetro.pdb
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.dll
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\refint\1043_TrianguloAreaPerimetro.dll
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.pdb
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\1043_TrianguloAreaPerimetro.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1043_TrianguloAreaPerimetro\obj\Debug\net6.0\ref\1043_TrianguloAreaPerimetro.dll
