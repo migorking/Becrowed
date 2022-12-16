@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\bin\Debug\net6.0\1073_QuadradoDosPares.exe
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\bin\Debug\net6.0\1073_QuadradoDosPares.deps.json
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\bin\Debug\net6.0\1073_QuadradoDosPares.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\bin\Debug\net6.0\1073_QuadradoDosPares.dll
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\bin\Debug\net6.0\1073_QuadradoDosPares.pdb
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.dll
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\refint\1073_QuadradoDosPares.dll
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.pdb
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\1073_QuadradoDosPares.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1073_QuadradoDosPares\obj\Debug\net6.0\ref\1073_QuadradoDosPares.dll

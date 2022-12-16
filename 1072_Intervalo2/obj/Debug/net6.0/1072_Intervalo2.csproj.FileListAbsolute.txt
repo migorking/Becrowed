@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1072_Intervalo2\bin\Debug\net6.0\1072_Intervalo2.exe
+C:\VSC\Becrowed\1072_Intervalo2\bin\Debug\net6.0\1072_Intervalo2.deps.json
+C:\VSC\Becrowed\1072_Intervalo2\bin\Debug\net6.0\1072_Intervalo2.runtimeconfig.json
+C:\VSC\Becrowed\1072_Intervalo2\bin\Debug\net6.0\1072_Intervalo2.dll
+C:\VSC\Becrowed\1072_Intervalo2\bin\Debug\net6.0\1072_Intervalo2.pdb
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.AssemblyInfo.cs
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.dll
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\refint\1072_Intervalo2.dll
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.pdb
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\1072_Intervalo2.genruntimeconfig.cache
+C:\VSC\Becrowed\1072_Intervalo2\obj\Debug\net6.0\ref\1072_Intervalo2.dll

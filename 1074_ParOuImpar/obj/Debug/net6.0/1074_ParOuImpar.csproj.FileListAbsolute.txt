@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\bin\Debug\net6.0\1074_ParOuImpar.exe
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\bin\Debug\net6.0\1074_ParOuImpar.deps.json
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\bin\Debug\net6.0\1074_ParOuImpar.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\bin\Debug\net6.0\1074_ParOuImpar.dll
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\bin\Debug\net6.0\1074_ParOuImpar.pdb
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.dll
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\refint\1074_ParOuImpar.dll
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.pdb
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\1074_ParOuImpar.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1074_ParOuImpar\obj\Debug\net6.0\ref\1074_ParOuImpar.dll
