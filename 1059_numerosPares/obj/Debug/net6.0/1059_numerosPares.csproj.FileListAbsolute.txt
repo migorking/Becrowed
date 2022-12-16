@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1059_numerosPares\bin\Debug\net6.0\1059_numerosPares.exe
+E:\SHARPCODERS\Becrowed\1059_numerosPares\bin\Debug\net6.0\1059_numerosPares.deps.json
+E:\SHARPCODERS\Becrowed\1059_numerosPares\bin\Debug\net6.0\1059_numerosPares.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1059_numerosPares\bin\Debug\net6.0\1059_numerosPares.dll
+E:\SHARPCODERS\Becrowed\1059_numerosPares\bin\Debug\net6.0\1059_numerosPares.pdb
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.dll
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\refint\1059_numerosPares.dll
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.pdb
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\1059_numerosPares.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1059_numerosPares\obj\Debug\net6.0\ref\1059_numerosPares.dll

@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1060_NumerosPositivos\bin\Debug\net6.0\1060_NumerosPositivos.exe
+C:\VSC\Becrowed\1060_NumerosPositivos\bin\Debug\net6.0\1060_NumerosPositivos.deps.json
+C:\VSC\Becrowed\1060_NumerosPositivos\bin\Debug\net6.0\1060_NumerosPositivos.runtimeconfig.json
+C:\VSC\Becrowed\1060_NumerosPositivos\bin\Debug\net6.0\1060_NumerosPositivos.dll
+C:\VSC\Becrowed\1060_NumerosPositivos\bin\Debug\net6.0\1060_NumerosPositivos.pdb
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.AssemblyInfo.cs
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.dll
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\refint\1060_NumerosPositivos.dll
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.pdb
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\1060_NumerosPositivos.genruntimeconfig.cache
+C:\VSC\Becrowed\1060_NumerosPositivos\obj\Debug\net6.0\ref\1060_NumerosPositivos.dll

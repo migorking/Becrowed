@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\bin\Debug\net6.0\1061_TempodeEvento.exe
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\bin\Debug\net6.0\1061_TempodeEvento.deps.json
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\bin\Debug\net6.0\1061_TempodeEvento.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\bin\Debug\net6.0\1061_TempodeEvento.dll
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\bin\Debug\net6.0\1061_TempodeEvento.pdb
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.dll
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\refint\1061_TempodeEvento.dll
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.pdb
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\1061_TempodeEvento.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1061_TempodeEvento\obj\Debug\net6.0\ref\1061_TempodeEvento.dll
