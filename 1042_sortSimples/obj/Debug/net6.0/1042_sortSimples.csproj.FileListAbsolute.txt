@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1042_sortSimples\bin\Debug\net6.0\1042_sortSimples.exe
+E:\SHARPCODERS\Becrowed\1042_sortSimples\bin\Debug\net6.0\1042_sortSimples.deps.json
+E:\SHARPCODERS\Becrowed\1042_sortSimples\bin\Debug\net6.0\1042_sortSimples.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1042_sortSimples\bin\Debug\net6.0\1042_sortSimples.dll
+E:\SHARPCODERS\Becrowed\1042_sortSimples\bin\Debug\net6.0\1042_sortSimples.pdb
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.dll
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\refint\1042_sortSimples.dll
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.pdb
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\1042_sortSimples.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1042_sortSimples\obj\Debug\net6.0\ref\1042_sortSimples.dll

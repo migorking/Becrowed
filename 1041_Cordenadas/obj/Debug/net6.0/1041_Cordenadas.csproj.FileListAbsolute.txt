@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\bin\Debug\net6.0\1041_Cordenadas.exe
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\bin\Debug\net6.0\1041_Cordenadas.deps.json
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\bin\Debug\net6.0\1041_Cordenadas.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\bin\Debug\net6.0\1041_Cordenadas.dll
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\bin\Debug\net6.0\1041_Cordenadas.pdb
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.dll
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\refint\1041_Cordenadas.dll
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.pdb
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\1041_Cordenadas.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1041_Cordenadas\obj\Debug\net6.0\ref\1041_Cordenadas.dll

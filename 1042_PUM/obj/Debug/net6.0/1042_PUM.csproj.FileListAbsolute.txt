@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1042_PUM\bin\Debug\net6.0\1042_PUM.exe
+E:\SHARPCODERS\Becrowed\1042_PUM\bin\Debug\net6.0\1042_PUM.deps.json
+E:\SHARPCODERS\Becrowed\1042_PUM\bin\Debug\net6.0\1042_PUM.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1042_PUM\bin\Debug\net6.0\1042_PUM.dll
+E:\SHARPCODERS\Becrowed\1042_PUM\bin\Debug\net6.0\1042_PUM.pdb
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.dll
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\refint\1042_PUM.dll
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.pdb
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\1042_PUM.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1042_PUM\obj\Debug\net6.0\ref\1042_PUM.dll
