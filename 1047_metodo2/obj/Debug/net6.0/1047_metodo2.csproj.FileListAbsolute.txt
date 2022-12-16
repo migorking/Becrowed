@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1047_metodo2\bin\Debug\net6.0\1047_metodo2.exe
+C:\VSC\Becrowed\1047_metodo2\bin\Debug\net6.0\1047_metodo2.deps.json
+C:\VSC\Becrowed\1047_metodo2\bin\Debug\net6.0\1047_metodo2.runtimeconfig.json
+C:\VSC\Becrowed\1047_metodo2\bin\Debug\net6.0\1047_metodo2.dll
+C:\VSC\Becrowed\1047_metodo2\bin\Debug\net6.0\1047_metodo2.pdb
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.AssemblyInfo.cs
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.dll
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\refint\1047_metodo2.dll
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.pdb
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\1047_metodo2.genruntimeconfig.cache
+C:\VSC\Becrowed\1047_metodo2\obj\Debug\net6.0\ref\1047_metodo2.dll

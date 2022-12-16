@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1049_Animal\bin\Debug\net6.0\1049_Animal.exe
+E:\SHARPCODERS\Becrowed\1049_Animal\bin\Debug\net6.0\1049_Animal.deps.json
+E:\SHARPCODERS\Becrowed\1049_Animal\bin\Debug\net6.0\1049_Animal.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1049_Animal\bin\Debug\net6.0\1049_Animal.dll
+E:\SHARPCODERS\Becrowed\1049_Animal\bin\Debug\net6.0\1049_Animal.pdb
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.dll
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\refint\1049_Animal.dll
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.pdb
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\1049_Animal.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1049_Animal\obj\Debug\net6.0\ref\1049_Animal.dll
