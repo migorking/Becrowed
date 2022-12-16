@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1131_grenais\bin\Debug\net6.0\1131_grenais.exe
+E:\SHARPCODERS\Becrowed\1131_grenais\bin\Debug\net6.0\1131_grenais.deps.json
+E:\SHARPCODERS\Becrowed\1131_grenais\bin\Debug\net6.0\1131_grenais.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1131_grenais\bin\Debug\net6.0\1131_grenais.dll
+E:\SHARPCODERS\Becrowed\1131_grenais\bin\Debug\net6.0\1131_grenais.pdb
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.dll
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\refint\1131_grenais.dll
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.pdb
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\1131_grenais.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1131_grenais\obj\Debug\net6.0\ref\1131_grenais.dll

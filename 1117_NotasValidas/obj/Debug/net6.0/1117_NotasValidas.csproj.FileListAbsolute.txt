@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\bin\Debug\net6.0\1117_NotasValidas.exe
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\bin\Debug\net6.0\1117_NotasValidas.deps.json
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\bin\Debug\net6.0\1117_NotasValidas.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\bin\Debug\net6.0\1117_NotasValidas.dll
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\bin\Debug\net6.0\1117_NotasValidas.pdb
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.dll
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\refint\1117_NotasValidas.dll
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.pdb
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\1117_NotasValidas.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1117_NotasValidas\obj\Debug\net6.0\ref\1117_NotasValidas.dll

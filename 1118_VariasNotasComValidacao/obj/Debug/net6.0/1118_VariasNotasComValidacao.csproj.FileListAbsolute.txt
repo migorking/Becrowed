@@ -1,0 +1,15 @@
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\bin\Debug\net6.0\1118_VariasNotasComValidacao.exe
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\bin\Debug\net6.0\1118_VariasNotasComValidacao.deps.json
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\bin\Debug\net6.0\1118_VariasNotasComValidacao.runtimeconfig.json
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\bin\Debug\net6.0\1118_VariasNotasComValidacao.dll
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\bin\Debug\net6.0\1118_VariasNotasComValidacao.pdb
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.csproj.AssemblyReference.cache
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.AssemblyInfoInputs.cache
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.AssemblyInfo.cs
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.csproj.CoreCompileInputs.cache
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.dll
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\refint\1118_VariasNotasComValidacao.dll
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.pdb
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\1118_VariasNotasComValidacao.genruntimeconfig.cache
+E:\SHARPCODERS\Becrowed\1118_VariasNotasComValidacao\obj\Debug\net6.0\ref\1118_VariasNotasComValidacao.dll
