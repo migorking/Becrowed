@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\bin\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.exe
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\bin\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.deps.json
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\bin\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.runtimeconfig.json
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\bin\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.dll
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\bin\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.pdb
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.AssemblyInfo.cs
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.dll
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\refint\1047_jogoDoTempo2_horaEminuto.dll
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.pdb
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\1047_jogoDoTempo2_horaEminuto.genruntimeconfig.cache
+C:\VSC\Becrowed\1047_jogoDoTempo2_horaEminuto\obj\Debug\net6.0\ref\1047_jogoDoTempo2_horaEminuto.dll

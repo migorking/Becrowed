@@ -1,0 +1,15 @@
+C:\VSC\Becrowed\1046_TempoDoJogo\bin\Debug\net6.0\1046_TempoDoJogo.exe
+C:\VSC\Becrowed\1046_TempoDoJogo\bin\Debug\net6.0\1046_TempoDoJogo.deps.json
+C:\VSC\Becrowed\1046_TempoDoJogo\bin\Debug\net6.0\1046_TempoDoJogo.runtimeconfig.json
+C:\VSC\Becrowed\1046_TempoDoJogo\bin\Debug\net6.0\1046_TempoDoJogo.dll
+C:\VSC\Becrowed\1046_TempoDoJogo\bin\Debug\net6.0\1046_TempoDoJogo.pdb
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.csproj.AssemblyReference.cache
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.AssemblyInfoInputs.cache
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.AssemblyInfo.cs
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.csproj.CoreCompileInputs.cache
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.dll
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\refint\1046_TempoDoJogo.dll
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.pdb
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\1046_TempoDoJogo.genruntimeconfig.cache
+C:\VSC\Becrowed\1046_TempoDoJogo\obj\Debug\net6.0\ref\1046_TempoDoJogo.dll
